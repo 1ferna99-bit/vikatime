@@ -10,17 +10,17 @@ const PLAN_CONFIG = {
 
 const PROTEINS = [
   { id: "pollo",  name: "Pechuga de Pollo a la Plancha", kcal: 220, emoji: "🍗" },
-  { id: "posta",  name: "Posta Rosada",                  kcal: 260, emoji: "🥩" },
-  { id: "salmon", name: "Salmón a la Plancha",            kcal: 280, emoji: "🐟" },
-  { id: "chef_p", name: "Sorpresa del Chef",              kcal: null, emoji: "⭐" },
+  { id: "mechada",  name: "Mechada",                     kcal: 260, emoji: "🥩" },
+  { id: "salmon", name: "Salmón en cubos grilaldos",     kcal: 280, emoji: "🐟" },
+  { id: "Pollos", name: "POollo saltado",                 kcal: null, emoji: "⭐" },
 ];
 
 const CARBS = [
   { id: "fettuccini_pesto", name: "Fettuccini Pesto",    kcal: 380, emoji: "🍝" },
-  { id: "fettuccini_bech",  name: "Fettuccini Bechamel", kcal: 295, emoji: "🍝" },
+  { id: "arabe",            name: "Arroz Arabe",         kcal: 295, emoji: "🍝" },
   { id: "pastelera",        name: "Pastelera de Choclo", kcal: 320, emoji: "🌽" },
   { id: "pure_papas",       name: "Puré de Papas",       kcal: 250, emoji: "🥔" },
-  { id: "pure_zanahoria",   name: "Puré de Zanahoria",   kcal: 210, emoji: "🥕" },
+  { id: "pure_zanahoria",   name: "Fetuccini Huancaina", kcal: 210, emoji: "🍝" },
   { id: "chef_c",           name: "Sorpresa del Chef",   kcal: null, emoji: "⭐" },
 ];
 
