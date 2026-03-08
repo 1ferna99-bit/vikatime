@@ -25,8 +25,8 @@ const CARBS = [
 ];
 
 const SALAD = [
-  "Betarraga","Cebolla morada","Lechuga","Mango","Nuez","Pepino",
-  "Pimentón","Rabanito","Repollo morado","Tomate cherry","Zanahoria rallada",
+  "Cebolla morada","Lechuga","Pepino",
+  "Pimentón","Repollo morado","Tomate cherry","Zanahoria rallada",
 ];
 
 const HOURS = ["11:30–12:30","12:00–13:00","12:30–13:30","13:00–14:00"];
