@@ -11,8 +11,8 @@ const PLAN_CONFIG = {
 const PROTEINS = [
   { id: "pollo",  name: "Pechuga de Pollo a la Plancha", kcal: 220, emoji: "🍗" },
   { id: "mechada",  name: "Mechada",                     kcal: 260, emoji: "🥩" },
-  { id: "salmon", name: "Salmón en cubos grilaldos",     kcal: 280, emoji: "🐟" },
-  { id: "Pollos", name: "POollo saltado",                 kcal: null, emoji: "⭐" },
+  { id: "salmon", name: "Salmón en cubos grillados",     kcal: 280, emoji: "🐟" },
+  { id: "Pollos", name: "Pollo saltado",                 kcal: null, emoji: "⭐" },
 ];
 
 const CARBS = [
