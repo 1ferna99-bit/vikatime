@@ -127,7 +127,7 @@ ${summaryText}`;
     const encoded = encodeURIComponent(message);
 
     // Cambia este número por el tuyo en formato internacional
-    const phoneNumber = "56900000000";
+    const phoneNumber = "56945167881";
 
     window.open(`https://wa.me/${phoneNumber}?text=${encoded}`, "_blank");
   }
